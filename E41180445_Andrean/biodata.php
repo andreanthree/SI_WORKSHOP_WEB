@@ -16,7 +16,7 @@
         <div class="row">
             
             <div class="col-md-12">
-                <h1>Biodata</h1>
+                <h1>Biodata Andrean Three</h1>
             </div>
             <div class="col-md-4" style="content-align: center;">
                 
