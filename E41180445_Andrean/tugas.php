@@ -15,14 +15,14 @@
         ?>
         <ul style="display: inline;">
             <li>
-                <a href="index.html">Beranda</a>
+                <a href="index.html" id="linkberanda">Beranda</a>
             </li>
             <li>
-                <a href="tugas.php">Tugas 2</a>
+                <a href="tugas.php" id="linkberanda">Tugas 2</a>
             </li>	
         </ul>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4"  id="linkberanda ku">
                 <p>
                     Nama Saya : <?= $nama ?>
                 </p>
